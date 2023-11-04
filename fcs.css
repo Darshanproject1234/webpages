@@ -1,0 +1,22 @@
+img{
+    width: 500px;
+    margin: 30px;
+}
+h2
+{
+    color: rgb(210, 20, 20);
+    font-family:Cambria, Cochin, Georgia, Times, serif;
+    font-style:normal;
+    font-size: xx-large;
+
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-size: 30px;
+    
+}
+div{
+    background-color:rgb(52, 149, 204);
+    color: rgb(3, 3, 8);
+}

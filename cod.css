@@ -1,0 +1,39 @@
+
+img{
+    width:350px;
+    margin:50px;
+    background-color: rgb(247, 244, 241);
+    
+}
+
+
+
+h1{
+    color:rgba(60, 17, 152, 0.921);
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 100;
+   font-style: normal;
+   font: size 50000px;
+
+}
+div{
+    color: hwb(20 96% 3%);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style:normal;
+    font-size: 30px;
+    background-color: rgb(252, 251, 249);
+    background: fixed
+;
+    
+    
+
+}
+p{
+    color: rgb(9, 1, 9);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+a{
+    color: rgb(12, 173, 45);
+    
+}
